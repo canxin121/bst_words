@@ -1,0 +1,1 @@
+This is a sample text with some repeated words. Some words may appear more than once. Let's test the BST program.
