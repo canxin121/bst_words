@@ -110,7 +110,7 @@ where
 
     /// 插入结点并执行指定操作。
     pub fn insert_fn(&mut self, data: T, mut f: impl FnMut(&mut Box<BSTNode<T>>)) {
-        fn insert_node<T>(
+        fn insert_node<T: Ord>(
             node: &mut Option<Box<BSTNode<T>>>,
             data: T,
             f: &mut impl FnMut(&mut Box<BSTNode<T>>),

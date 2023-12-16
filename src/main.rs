@@ -1,8 +1,8 @@
 // 引入bst库中的BSTree结构体，Order枚举类型，和Word结构体
-use bst::bst::BSTree;
-use bst::r#type::{Order, Word};
+use bst_words::bst::BSTree;
+use bst_words::r#type::{Order, Word};
 // 引入bst库中的一些工具函数，比如过滤文本中的单词，从文件中读取文本，和将字符串写入文件
-use bst::utils::{filter_word, read_from_file, write_str_to_file};
+use bst_words::utils::{filter_word, read_from_file, write_str_to_file};
 // 引入dialoguer库中的ColorfulTheme结构体，Input结构体，和Select结构体，它们用于创建彩色的主题，输入框，和选择框
 use dialoguer::{theme::ColorfulTheme, Input, Select};
 // 引入std库中的process模块，它用于处理程序的退出
