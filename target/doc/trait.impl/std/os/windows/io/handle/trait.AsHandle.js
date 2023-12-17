@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"tempfile":[["impl&lt;F: <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/os/windows/io/handle/trait.AsHandle.html\" title=\"trait std::os::windows::io::handle::AsHandle\">AsHandle</a>&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/os/windows/io/handle/trait.AsHandle.html\" title=\"trait std::os::windows::io::handle::AsHandle\">AsHandle</a> for <a class=\"struct\" href=\"tempfile/struct.NamedTempFile.html\" title=\"struct tempfile::NamedTempFile\">NamedTempFile</a>&lt;F&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

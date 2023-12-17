@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["iter_bytes","iter_units"],"mod":["error","iterator"],"struct":["Utf16Char","Utf16Iterator","Utf8Char","Utf8Iterator"],"trait":["CharExt","IterExt","SliceExt","StrExt","U16UtfExt","U8UtfExt"]};

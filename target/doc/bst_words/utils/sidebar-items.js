@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["filter_word","read_from_file","write_str_to_file"]};
