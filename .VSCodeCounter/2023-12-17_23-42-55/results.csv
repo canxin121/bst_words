@@ -1,0 +1,10 @@
+"filename", "language", "JSON", "TOML", "Rust", "comment", "blank", "total"
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\Cargo.lock", "TOML", 0, 494, 0, 2, 71, 567
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\Cargo.toml", "TOML", 0, 13, 0, 1, 4, 18
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\src\bst.rs", "Rust", 0, 0, 151, 81, 12, 244
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\src\lib.rs", "Rust", 0, 0, 3, 40, 2, 45
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\src\main.rs", "Rust", 0, 0, 164, 58, 8, 230
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\src\type.rs", "Rust", 0, 0, 90, 78, 17, 185
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\src\utils.rs", "Rust", 0, 0, 58, 108, 8, 174
+"c:\Users\Administrator\Desktop\rs_examples\bst_words\words.json", "JSON", 1, 0, 0, 0, 0, 1
+"Total", "-", 1, 507, 466, 368, 122, 1464

@@ -1,29 +1,36 @@
-Date : 2023-12-16 17:46:50
-Directory : c:\Users\Administrator\Desktop\rs_examples\bst_words\src
-Total : 5 files,  462 codes, 365 comments, 47 blanks, all 874 lines
+Date : 2023-12-17 23:42:55
+Directory : c:\Users\Administrator\Desktop\rs_examples\bst_words
+Total : 8 files,  974 codes, 368 comments, 122 blanks, all 1464 lines
 
 Languages
 +----------+------------+------------+------------+------------+------------+
 | language | files      | code       | comment    | blank      | total      |
 +----------+------------+------------+------------+------------+------------+
-| Rust     |          5 |        462 |        365 |         47 |        874 |
+| TOML     |          2 |        507 |          3 |         75 |        585 |
+| Rust     |          5 |        466 |        365 |         47 |        878 |
+| JSON     |          1 |          1 |          0 |          0 |          1 |
 +----------+------------+------------+------------+------------+------------+
 
 Directories
 +-------------------------------------------------------------------+------------+------------+------------+------------+------------+
 | path                                                              | files      | code       | comment    | blank      | total      |
 +-------------------------------------------------------------------+------------+------------+------------+------------+------------+
-| .                                                                 |          5 |        462 |        365 |         47 |        874 |
+| .                                                                 |          8 |        974 |        368 |        122 |      1,464 |
+| . (Files)                                                         |          3 |        508 |          3 |         75 |        586 |
+| src                                                               |          5 |        466 |        365 |         47 |        878 |
 +-------------------------------------------------------------------+------------+------------+------------+------------+------------+
 
 Files
 +-------------------------------------------------------------------+----------+------------+------------+------------+------------+
 | filename                                                          | language | code       | comment    | blank      | total      |
 +-------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Administrator\Desktop\rs_examples\bst_words\Cargo.lock   | TOML     |        494 |          2 |         71 |        567 |
+| c:\Users\Administrator\Desktop\rs_examples\bst_words\Cargo.toml   | TOML     |         13 |          1 |          4 |         18 |
 | c:\Users\Administrator\Desktop\rs_examples\bst_words\src\bst.rs   | Rust     |        151 |         81 |         12 |        244 |
 | c:\Users\Administrator\Desktop\rs_examples\bst_words\src\lib.rs   | Rust     |          3 |         40 |          2 |         45 |
-| c:\Users\Administrator\Desktop\rs_examples\bst_words\src\main.rs  | Rust     |        160 |         58 |          8 |        226 |
+| c:\Users\Administrator\Desktop\rs_examples\bst_words\src\main.rs  | Rust     |        164 |         58 |          8 |        230 |
 | c:\Users\Administrator\Desktop\rs_examples\bst_words\src\type.rs  | Rust     |         90 |         78 |         17 |        185 |
 | c:\Users\Administrator\Desktop\rs_examples\bst_words\src\utils.rs | Rust     |         58 |        108 |          8 |        174 |
-| Total                                                             |          |        462 |        365 |         47 |        874 |
+| c:\Users\Administrator\Desktop\rs_examples\bst_words\words.json   | JSON     |          1 |          0 |          0 |          1 |
+| Total                                                             |          |        974 |        368 |        122 |      1,464 |
 +-------------------------------------------------------------------+----------+------------+------------+------------+------------+

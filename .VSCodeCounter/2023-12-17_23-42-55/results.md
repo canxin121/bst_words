@@ -1,21 +1,25 @@
 # Summary
 
-Date : 2023-12-16 17:46:50
+Date : 2023-12-17 23:42:55
 
-Directory c:\\Users\\Administrator\\Desktop\\rs_examples\\bst_words\\src
+Directory c:\\Users\\Administrator\\Desktop\\rs_examples\\bst_words
 
-Total : 5 files,  462 codes, 365 comments, 47 blanks, all 874 lines
+Total : 8 files,  974 codes, 368 comments, 122 blanks, all 1464 lines
 
 Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
 
 ## Languages
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Rust | 5 | 462 | 365 | 47 | 874 |
+| TOML | 2 | 507 | 3 | 75 | 585 |
+| Rust | 5 | 466 | 365 | 47 | 878 |
+| JSON | 1 | 1 | 0 | 0 | 1 |
 
 ## Directories
 | path | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| . | 5 | 462 | 365 | 47 | 874 |
+| . | 8 | 974 | 368 | 122 | 1,464 |
+| . (Files) | 3 | 508 | 3 | 75 | 586 |
+| src | 5 | 466 | 365 | 47 | 878 |
 
 Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
