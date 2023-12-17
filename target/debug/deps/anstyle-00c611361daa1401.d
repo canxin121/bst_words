@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\rs_examples\bst_words\target\debug\deps\libanstyle-00c611361daa1401.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs
+
+c:\Users\Administrator\Desktop\rs_examples\bst_words\target\debug\deps\anstyle-00c611361daa1401.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs:
